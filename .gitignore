@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Xcode user-specific data
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+# Xcode-generated workspace metadata inside projects
+**/*.xcodeproj/project.xcworkspace/
+
+# Build products
+build/
+DerivedData/
+*.dSYM/
+*.xcarchive/
+*.ipa
